@@ -24,6 +24,8 @@ public class HelloWorld {
 		System.out.println(0!=15);
 		System.out.println(9==9);
 		System.out.println(5==7);
+		
+		System.out.println("Hello Beautyful New GITHUB World");
 	}
 
 }
